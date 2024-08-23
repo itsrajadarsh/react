@@ -2,6 +2,8 @@
 
 A simple Tic-Tac-Toe game built with React. This project demonstrates basic game functionality including player turns, game status updates, and move history.
 
+![Tic-Tac-Toe Screenshot](./public/demo.png)
+
 ## Features
 
 - **Two Player Mode:** Play with two players who take turns.
