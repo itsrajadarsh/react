@@ -1,4 +1,3 @@
-````markdown
 # Tic-Tac-Toe React Project
 
 A simple Tic-Tac-Toe game built with React. This project demonstrates basic game functionality including player turns, game status updates, and move history.
@@ -29,7 +28,6 @@ You can try out the live demo of the game here: [Tic-Tac-Toe Demo](https://ticta
    ```bash
    git clone https://github.com/itsrajadarsh/react.git
    ```
-````
 
 2. **Navigate into the project directory:**
 
