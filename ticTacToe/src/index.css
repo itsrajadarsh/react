@@ -172,6 +172,41 @@ ol {
   padding: 0;
 }
 
+/* ################################################################################ */
+/* Changed for responsiveness */
+@media (max-width: 720px) {
+  #game-board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+    margin: 2rem 0;
+    font-size: 3rem !important;
+  }
+
+  #game-board button {
+    width: 6rem !important;
+    height: 6rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  #game-board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+    margin: 2rem 0;
+   
+  }
+
+  #game-board button {
+    width: 5rem !important;
+    height: 5rem !important;
+    font-size: 3rem !important;
+  }
+}
+
+
+/* ################################################################################ */
 #game-board button {
   width: 8rem;
   height: 8rem;
