@@ -49,7 +49,7 @@ You can try out the live demo of the game here: [Tic-Tac-Toe Demo](https://ticta
    npm run dev
    ```
 
-   Open `http://localhost:3000` in your browser to view the application.
+   Open `http://localhost:5173/` in your browser to view the application.
 
 ## Code Overview
 

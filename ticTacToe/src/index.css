@@ -195,7 +195,6 @@ ol {
     grid-template-columns: repeat(3, 1fr);
     gap: 0.5rem;
     margin: 2rem 0;
-   
   }
 
   #game-board button {
@@ -204,7 +203,6 @@ ol {
     font-size: 3rem !important;
   }
 }
-
 
 /* ################################################################################ */
 #game-board button {
