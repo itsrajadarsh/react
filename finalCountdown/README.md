@@ -2,7 +2,7 @@
 
 A fun and interactive timer challenge game built with React! In this game, you try to stop the timer as close to zero as possible, testing your reflexes and precision through varying difficulty levels.
 
-![Game Screenshot](/src/assets/demo.png)
+![Game Screenshot](./src/assets/demo.png)
 
 ## Table of Contents
 
