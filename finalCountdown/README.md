@@ -17,7 +17,7 @@ A fun and interactive timer challenge game built with React! In this game, you t
 
 ## Demo
 
-![Game Screenshot](screenshot.png)  
+- https://countdown-seconds.vercel.app/
 _Try to stop the timer as close to zero as possible!_
 
 ## Features
