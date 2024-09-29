@@ -75,10 +75,6 @@ The app uses React's `useState` hook to manage the state of projects and tasks.
 
    Open `http://localhost:5173/` in your browser to view the application.
 
-## Winning Combinations
-
-The winning combinations are defined in `winning-combinations.js`. This file includes all possible ways to win in a Tic-Tac-Toe game.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
