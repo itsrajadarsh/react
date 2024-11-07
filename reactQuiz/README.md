@@ -15,8 +15,7 @@ A React-based quiz application that dynamically renders questions, tracks user r
 
 ## Demo
 
-- https://
-  _Try to stop the timer as close to zero as possible!_
+- https://react-quiz-adarsh.vercel.app/
 
 ## Components
 
@@ -94,3 +93,11 @@ Displays the user's results at the end of the quiz.
   ];
 
 - The correct answer should always be the first item in the answers array.
+
+## Contact
+
+For any inquiries or feedback, feel free to reach out:
+
+- **Name**: Adarsh Raj
+- **Email**: adarshraj6113@gmail.com
+- **GitHub**: https://github.com/itsrajadarsh
